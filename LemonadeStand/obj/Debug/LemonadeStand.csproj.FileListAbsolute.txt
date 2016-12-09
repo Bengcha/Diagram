@@ -1,0 +1,2 @@
+c:\users\beng\documents\visual studio 2015\Projects\LemonadeStand\LemonadeStand\bin\Debug\LemonadeStand.exe.config
+C:\Users\Beng\Desktop\LemonadeStand-Diagram\LemonadeStand\bin\Debug\LemonadeStand.exe.config
